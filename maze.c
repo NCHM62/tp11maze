@@ -8,7 +8,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-
+//
 // Labyrinthe en anglais : maze.
 
 // Représente un chemin sous la forme d'une chaîne de caractères
